@@ -2,6 +2,8 @@
  
 Objective: 
 •	Predicting shoes price for the customers of Zshoes and deploy with the help of flask.
+
+
 Problem Statement: 
 •	Zshoes.com is one of the famous shoe manufacturers of India and has business in almost every country in Asia and Europe. 
 They are one of the best choices of all the athletics and they make the best shoes for running. Due to pandemic, 
@@ -18,6 +20,7 @@ Feature Details:
 •	payment_type: Types of payment 
 •	payment_installments:  Installments of payments 
 •	payment_value: Value of payment
+
 
 Used Technology:
 >	Python
